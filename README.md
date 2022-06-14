@@ -4,3 +4,4 @@ The objective of the final project is to familiarize ourselves with steganograph
 ![image](https://user-images.githubusercontent.com/32147519/173513095-4c1170eb-1134-4b32-a71f-b0012c1c36ba.png)
 
 
+![image](https://user-images.githubusercontent.com/32147519/173513195-caf4989f-6df4-4a92-9b93-3fcb90582251.png)
